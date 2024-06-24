@@ -20,3 +20,12 @@ This script implements a game theory approach to the lane-changing problem for a
       "player1": { /* parameters for player1 */ },
       "player2": { /* parameters for player2 */ }
   }
+
+### Running the Script
+
+1.Open Terminal:
+Open your terminal (command line) and navigate to the directory where the script is located.
+
+2.Execute the Script:
+Run the following command:
+```bash
