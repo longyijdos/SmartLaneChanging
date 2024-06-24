@@ -29,7 +29,7 @@ Open your terminal (command line) and navigate to the directory where the script
 2.Execute the Script:
 Run the following command:
 ```bash
-python lane_changing_game.py --para_path [path_to_setting_file] \
+python game.py --para_path [path_to_setting_file] \
 --v1 [velocity of player1] --v2 [velocity of player2] \
 --a1_min [minimum acceleration of player1] \
 --a1_max [maximum acceleration of player1] \
