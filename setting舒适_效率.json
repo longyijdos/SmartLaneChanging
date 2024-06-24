@@ -1,0 +1,51 @@
+{
+    "player1": {
+        "comfort": {
+            "w1": 1.0,
+            "w2": 1.5,
+            "w3": 2.0
+        },
+        "efficient": {
+            "w1": 1.2,
+            "w2": 2.0,
+            "w3": 1.8
+        },
+        "acceleration": {
+            "alpha": 1.0,
+            "beta": 0.8,
+            "gamma": 0.5
+        },
+        "constant": {
+            "alpha": 1.0,
+            "beta": 1.0,
+            "gamma": 1.0
+        }
+    },
+    "player2": {
+        "comfort": {
+            "w1": 1.5,
+            "w2": 1.2,
+            "w3": 1.0
+        },
+        "efficient": {
+            "w1": 2.0,
+            "w2": 2.5,
+            "w3": 1.0
+        },
+        "acceleration": {
+            "alpha": 1.5,
+            "beta": 2.0,
+            "gamma": 0.5
+        },
+        "constant": {
+            "alpha": 1.0,
+            "beta": 1.0,
+            "gamma": 0.0
+        },
+        "deceleration": {
+            "alpha": 1.2,
+            "beta": 0.8,
+            "gamma": 0.5
+        }
+    }
+}
