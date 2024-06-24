@@ -34,7 +34,9 @@ python lane_changing_game.py --para_path [path_to_setting_file] \
 --a1_min [minimum acceleration of player1] \
 --a1_max [maximum acceleration of player1] \
 --a2_min [minimum acceleration of player2] \
---a2_max [maximum acceleration of player1] \
+--a2_max [maximum acceleration of player2] \
 --type1 [type of player1] --type2 [type of player2] \
 --t [changing time] --l [length of player2]
 ```
+
+After running the script, it will compute lane-changing decisions based on the game theory model and output relevant information.
